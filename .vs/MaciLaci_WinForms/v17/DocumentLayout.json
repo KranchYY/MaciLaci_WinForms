@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilaci_winforms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|solutionrelative:macilaci_winforms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilaci_winforms\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|solutionrelative:macilaci_winforms\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilaci_winforms\\persistance\\hunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|solutionrelative:macilaci_winforms\\persistance\\hunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilaci_winforms\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|solutionrelative:macilaci_winforms\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\macilaci_winforms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|solutionrelative:macilaci_winforms\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilaci_winforms\\persistance\\maci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|solutionrelative:macilaci_winforms\\persistance\\maci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilaci_winforms\\persistance\\forest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|solutionrelative:macilaci_winforms\\persistance\\forest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilaci_winforms\\persistance\\forestfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|solutionrelative:macilaci_winforms\\persistance\\forestfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilaci_winforms\\model\\macilacifieldeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|solutionrelative:macilaci_winforms\\model\\macilacifieldeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilaci_winforms\\model\\macilacieventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|solutionrelative:macilaci_winforms\\model\\macilacieventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FE577-E5E0-4A25-8420-5092B0945519}|MacilaciTest\\MacilaciTest.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilacitest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FE577-E5E0-4A25-8420-5092B0945519}|MacilaciTest\\MacilaciTest.csproj|solutionrelative:macilacitest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FE577-E5E0-4A25-8420-5092B0945519}|MacilaciTest\\MacilaciTest.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilacitest\\macilacitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B9FE577-E5E0-4A25-8420-5092B0945519}|MacilaciTest\\MacilaciTest.csproj|solutionrelative:macilacitest\\macilacitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\els\u0151 beadand\u00F3\\macilaci_winforms\\macilaci_winforms\\macilaci_winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A674381-49E4-44D5-9C03-1B3401F5A65E}|MaciLaci_WinForms\\MaciLaci_WinForms.csproj|solutionrelative:macilaci_winforms\\macilaci_winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaciLaciFieldEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Model\\MaciLaciFieldEventArgs.cs",
+              "RelativeDocumentMoniker": "MaciLaci_WinForms\\Model\\MaciLaciFieldEventArgs.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Model\\MaciLaciFieldEventArgs.cs",
+              "RelativeToolTip": "MaciLaci_WinForms\\Model\\MaciLaciFieldEventArgs.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:23:22.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hunter.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Persistance\\Hunter.cs",
+              "RelativeDocumentMoniker": "MaciLaci_WinForms\\Persistance\\Hunter.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Persistance\\Hunter.cs",
+              "RelativeToolTip": "MaciLaci_WinForms\\Persistance\\Hunter.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:25:32.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Forest.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Persistance\\Forest.cs",
+              "RelativeDocumentMoniker": "MaciLaci_WinForms\\Persistance\\Forest.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Persistance\\Forest.cs",
+              "RelativeToolTip": "MaciLaci_WinForms\\Persistance\\Forest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:24:12.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "MaciLaci_WinForms\\Model\\GameModel.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Model\\GameModel.cs",
+              "RelativeToolTip": "MaciLaci_WinForms\\Model\\GameModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAzwKQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:21:47.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForestField.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Persistance\\ForestField.cs",
+              "RelativeDocumentMoniker": "MaciLaci_WinForms\\Persistance\\ForestField.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Persistance\\ForestField.cs",
+              "RelativeToolTip": "MaciLaci_WinForms\\Persistance\\ForestField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:25:06.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Maci.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Persistance\\Maci.cs",
+              "RelativeDocumentMoniker": "MaciLaci_WinForms\\Persistance\\Maci.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Persistance\\Maci.cs",
+              "RelativeToolTip": "MaciLaci_WinForms\\Persistance\\Maci.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:25:59.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\GameForm.cs",
+              "RelativeDocumentMoniker": "MaciLaci_WinForms\\GameForm.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\GameForm.cs [Design]",
+              "RelativeToolTip": "MaciLaci_WinForms\\GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:14:05.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MacilaciTest.csproj",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MacilaciTest\\MacilaciTest.csproj",
+              "RelativeDocumentMoniker": "MacilaciTest\\MacilaciTest.csproj",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MacilaciTest\\MacilaciTest.csproj",
+              "RelativeToolTip": "MacilaciTest\\MacilaciTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-04T15:51:42.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\GameForm.cs",
+              "RelativeDocumentMoniker": "MaciLaci_WinForms\\GameForm.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\GameForm.cs",
+              "RelativeToolTip": "MaciLaci_WinForms\\GameForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:19:41.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MacilaciTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MacilaciTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MacilaciTest\\UnitTest1.cs",
+              "RelativeToolTip": "MacilaciTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:34:24.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "MaciLaci_WinForms\\GameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\GameForm.Designer.cs",
+              "RelativeToolTip": "MaciLaci_WinForms\\GameForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:29:51.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaciLaciEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Model\\MaciLaciEventArgs.cs",
+              "RelativeDocumentMoniker": "MaciLaci_WinForms\\Model\\MaciLaciEventArgs.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\Model\\MaciLaciEventArgs.cs",
+              "RelativeToolTip": "MaciLaci_WinForms\\Model\\MaciLaciEventArgs.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:22:40.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MaciLaci_WinForms.csproj",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\MaciLaci_WinForms.csproj",
+              "RelativeDocumentMoniker": "MaciLaci_WinForms\\MaciLaci_WinForms.csproj",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Els\u0151 beadand\u00F3\\MaciLaci_WinForms\\MaciLaci_WinForms\\MaciLaci_WinForms.csproj",
+              "RelativeToolTip": "MaciLaci_WinForms\\MaciLaci_WinForms.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-04T15:50:42.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

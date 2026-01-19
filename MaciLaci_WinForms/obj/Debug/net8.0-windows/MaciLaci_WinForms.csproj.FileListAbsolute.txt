@@ -1,0 +1,16 @@
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\bin\Debug\net8.0-windows\MaciLaci_WinForms.exe
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\bin\Debug\net8.0-windows\MaciLaci_WinForms.deps.json
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\bin\Debug\net8.0-windows\MaciLaci_WinForms.runtimeconfig.json
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\bin\Debug\net8.0-windows\MaciLaci_WinForms.dll
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\bin\Debug\net8.0-windows\MaciLaci_WinForms.pdb
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\obj\Debug\net8.0-windows\MaciLaci_WinForms.GameForm.resources
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\obj\Debug\net8.0-windows\MaciLaci_WinForms.csproj.GenerateResource.cache
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\obj\Debug\net8.0-windows\MaciLaci_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\obj\Debug\net8.0-windows\MaciLaci_WinForms.AssemblyInfoInputs.cache
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\obj\Debug\net8.0-windows\MaciLaci_WinForms.AssemblyInfo.cs
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\obj\Debug\net8.0-windows\MaciLaci_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\obj\Debug\net8.0-windows\MaciLaci_WinForms.dll
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\obj\Debug\net8.0-windows\refint\MaciLaci_WinForms.dll
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\obj\Debug\net8.0-windows\MaciLaci_WinForms.pdb
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\obj\Debug\net8.0-windows\MaciLaci_WinForms.genruntimeconfig.cache
+C:\Users\juhas\Desktop\Egyetem\5. félév\Eva\Első beadandó\MaciLaci_WinForms\MaciLaci_WinForms\obj\Debug\net8.0-windows\ref\MaciLaci_WinForms.dll
